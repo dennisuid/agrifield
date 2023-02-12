@@ -1,0 +1,6 @@
+build/
+develop-eggs/
+dist/
+downloads/
+eggs
+agri_data/
